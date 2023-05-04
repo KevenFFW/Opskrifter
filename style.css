@@ -1,3 +1,9 @@
-p {
+div {
+    color: white;
+    background-color: black;
+  }
+  .div .p {color: blueviolet;}
+  
+  p {
     color: red;
   }
