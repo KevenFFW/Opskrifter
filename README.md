@@ -1,3 +1,3 @@
 # Opskrifter
 This is a collection of recipes 
-Dette re ren ændirng 
+Dette er en ændring
